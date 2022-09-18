@@ -1,2 +1,2 @@
-# data-bank
-Database Bank indonesia
+# Database BANK yang terdaftar di Indonesia
+Database Bank indonesia Format (JSON, SQL, CSV)
